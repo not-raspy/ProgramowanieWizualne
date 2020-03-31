@@ -1,0 +1,24 @@
+E:\Moje dokumenty\pwsz Legnica\sem 4\programowanie wizualne\labsy04\login\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\Moje dokumenty\pwsz Legnica\sem 4\programowanie wizualne\labsy04\login\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\Moje dokumenty\pwsz Legnica\sem 4\programowanie wizualne\labsy04\login\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\Moje dokumenty\pwsz Legnica\sem 4\programowanie wizualne\labsy04\login\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+E:\Moje dokumenty\pwsz Legnica\sem 4\programowanie wizualne\labsy04\login\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+E:\Moje dokumenty\pwsz Legnica\sem 4\programowanie wizualne\labsy04\login\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+E:\Moje dokumenty\pwsz Legnica\sem 4\programowanie wizualne\labsy04\login\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form3.resources
+E:\Moje dokumenty\pwsz Legnica\sem 4\programowanie wizualne\labsy04\login\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\Moje dokumenty\pwsz Legnica\sem 4\programowanie wizualne\labsy04\login\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\Moje dokumenty\pwsz Legnica\sem 4\programowanie wizualne\labsy04\login\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+E:\Moje dokumenty\pwsz Legnica\sem 4\programowanie wizualne\labsy04\login\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\Moje dokumenty\pwsz Legnica\sem 4\programowanie wizualne\labsy04\login\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+E:\Moje dokumenty\pwsz Legnica\sem 4\programowanie wizualne\Programowanie Wizualne\labsy04\login\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\Moje dokumenty\pwsz Legnica\sem 4\programowanie wizualne\Programowanie Wizualne\labsy04\login\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\Moje dokumenty\pwsz Legnica\sem 4\programowanie wizualne\Programowanie Wizualne\labsy04\login\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\Moje dokumenty\pwsz Legnica\sem 4\programowanie wizualne\Programowanie Wizualne\labsy04\login\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+E:\Moje dokumenty\pwsz Legnica\sem 4\programowanie wizualne\Programowanie Wizualne\labsy04\login\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+E:\Moje dokumenty\pwsz Legnica\sem 4\programowanie wizualne\Programowanie Wizualne\labsy04\login\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+E:\Moje dokumenty\pwsz Legnica\sem 4\programowanie wizualne\Programowanie Wizualne\labsy04\login\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form3.resources
+E:\Moje dokumenty\pwsz Legnica\sem 4\programowanie wizualne\Programowanie Wizualne\labsy04\login\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\Moje dokumenty\pwsz Legnica\sem 4\programowanie wizualne\Programowanie Wizualne\labsy04\login\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\Moje dokumenty\pwsz Legnica\sem 4\programowanie wizualne\Programowanie Wizualne\labsy04\login\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+E:\Moje dokumenty\pwsz Legnica\sem 4\programowanie wizualne\Programowanie Wizualne\labsy04\login\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\Moje dokumenty\pwsz Legnica\sem 4\programowanie wizualne\Programowanie Wizualne\labsy04\login\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

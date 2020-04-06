@@ -1,0 +1,33 @@
+C:\Users\kaman\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csprojAssemblyReference.cache
+C:\Users\kaman\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+C:\Users\kaman\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\kaman\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+C:\Users\kaman\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\kaman\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\kaman\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\kaman\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\kaman\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\MySql.Data.dll
+C:\Users\kaman\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\Google.Protobuf.dll
+C:\Users\kaman\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\kaman\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\kaman\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\Renci.SshNet.dll
+C:\Users\kaman\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\MySql.Data.xml
+C:\Users\kaman\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CopyComplete
+C:\Users\kaman\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\kaman\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+E:\Moje dokumenty\pwsz Legnica\sem 4\programowanie wizualne\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+E:\Moje dokumenty\pwsz Legnica\sem 4\programowanie wizualne\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+E:\Moje dokumenty\pwsz Legnica\sem 4\programowanie wizualne\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+E:\Moje dokumenty\pwsz Legnica\sem 4\programowanie wizualne\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\Google.Protobuf.dll
+E:\Moje dokumenty\pwsz Legnica\sem 4\programowanie wizualne\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\BouncyCastle.Crypto.dll
+E:\Moje dokumenty\pwsz Legnica\sem 4\programowanie wizualne\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\Ubiety.Dns.Core.dll
+E:\Moje dokumenty\pwsz Legnica\sem 4\programowanie wizualne\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\Renci.SshNet.dll
+E:\Moje dokumenty\pwsz Legnica\sem 4\programowanie wizualne\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\MySql.Data.xml
+E:\Moje dokumenty\pwsz Legnica\sem 4\programowanie wizualne\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csprojAssemblyReference.cache
+E:\Moje dokumenty\pwsz Legnica\sem 4\programowanie wizualne\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+E:\Moje dokumenty\pwsz Legnica\sem 4\programowanie wizualne\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+E:\Moje dokumenty\pwsz Legnica\sem 4\programowanie wizualne\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+E:\Moje dokumenty\pwsz Legnica\sem 4\programowanie wizualne\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+E:\Moje dokumenty\pwsz Legnica\sem 4\programowanie wizualne\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CopyComplete
+E:\Moje dokumenty\pwsz Legnica\sem 4\programowanie wizualne\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+E:\Moje dokumenty\pwsz Legnica\sem 4\programowanie wizualne\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb

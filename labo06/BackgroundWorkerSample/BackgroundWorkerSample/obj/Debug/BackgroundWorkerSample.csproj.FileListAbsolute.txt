@@ -1,0 +1,9 @@
+E:\Moje dokumenty\pwsz Legnica\sem 4\programowanie wizualne\Programowanie Wizualne\Programowanie-Wizualne\labo06\BackgroundWorkerSample\BackgroundWorkerSample\bin\Debug\BackgroundWorkerSample.exe
+E:\Moje dokumenty\pwsz Legnica\sem 4\programowanie wizualne\Programowanie Wizualne\Programowanie-Wizualne\labo06\BackgroundWorkerSample\BackgroundWorkerSample\bin\Debug\BackgroundWorkerSample.pdb
+E:\Moje dokumenty\pwsz Legnica\sem 4\programowanie wizualne\Programowanie Wizualne\Programowanie-Wizualne\labo06\BackgroundWorkerSample\BackgroundWorkerSample\obj\Debug\BackgroundWorkerSample.csprojAssemblyReference.cache
+E:\Moje dokumenty\pwsz Legnica\sem 4\programowanie wizualne\Programowanie Wizualne\Programowanie-Wizualne\labo06\BackgroundWorkerSample\BackgroundWorkerSample\obj\Debug\BackgroundWorkerSample.Form1.resources
+E:\Moje dokumenty\pwsz Legnica\sem 4\programowanie wizualne\Programowanie Wizualne\Programowanie-Wizualne\labo06\BackgroundWorkerSample\BackgroundWorkerSample\obj\Debug\BackgroundWorkerSample.Properties.Resources.resources
+E:\Moje dokumenty\pwsz Legnica\sem 4\programowanie wizualne\Programowanie Wizualne\Programowanie-Wizualne\labo06\BackgroundWorkerSample\BackgroundWorkerSample\obj\Debug\BackgroundWorkerSample.csproj.GenerateResource.cache
+E:\Moje dokumenty\pwsz Legnica\sem 4\programowanie wizualne\Programowanie Wizualne\Programowanie-Wizualne\labo06\BackgroundWorkerSample\BackgroundWorkerSample\obj\Debug\BackgroundWorkerSample.csproj.CoreCompileInputs.cache
+E:\Moje dokumenty\pwsz Legnica\sem 4\programowanie wizualne\Programowanie Wizualne\Programowanie-Wizualne\labo06\BackgroundWorkerSample\BackgroundWorkerSample\obj\Debug\BackgroundWorkerSample.exe
+E:\Moje dokumenty\pwsz Legnica\sem 4\programowanie wizualne\Programowanie Wizualne\Programowanie-Wizualne\labo06\BackgroundWorkerSample\BackgroundWorkerSample\obj\Debug\BackgroundWorkerSample.pdb
